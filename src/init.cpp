@@ -1,0 +1,10 @@
+
+namespace Bunzi
+{
+
+bool init()
+{
+
+}
+
+}
